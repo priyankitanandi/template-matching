@@ -1,5 +1,5 @@
 # Template Matching
-This Python project, using OpenCV, aims to detect and locate a specific object (in this case, Waldo) within a larger image. It involves loading a template image of Waldo, matching it against a larger image, and then drawing a bounding box around the detected location. 
+This Python project, using OpenCV, aims to detect and locate a specific object (in this case, Waldo and a star) within a larger image. It involves loading a template image of Waldo/star, matching it against a larger image, and then drawing a bounding box around the detected location. 
 ### Some Results
 
 
